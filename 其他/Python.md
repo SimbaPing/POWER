@@ -2,7 +2,7 @@
 
 目录
 
-[PIL](PIL)
+* [PIL](PIL)
 
 ## PIL
 

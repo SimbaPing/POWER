@@ -9,7 +9,6 @@ Welcome to power's documentation!
 .. toctree::
 
    :maxdepth: 2
-   :glod:
 
    其他
 
@@ -17,8 +16,8 @@ Welcome to power's documentation!
 ==============
 
 .. toctree::
+
    :maxdepth: 2
-   :glod:
 
    python.md
 

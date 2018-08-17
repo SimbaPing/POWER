@@ -10,12 +10,5 @@ Welcome to power's documentation!
    :maxdepth: 1
 
    helloworld
-   
-   :maxdepth: 2
-   :caption: Contents:
 
-
-
-Indices and tables
-==================
 

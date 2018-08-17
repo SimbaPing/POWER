@@ -33,5 +33,5 @@ Welcome to power's documentation!
 1.3 haha
 ~~~~~~~~~~~~~~~~
 
-$ make html
+
 

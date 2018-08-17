@@ -17,7 +17,6 @@
 # sys.path.insert(0, os.path.abspath('.'))
 
 import sphinx_rtd_theme
-import recommonmark
 # -- Project information -----------------------------------------------------
 
 project = 'power'
@@ -158,22 +157,5 @@ texinfo_documents = [
      author, 'power', 'One line description of project.',
      'Miscellaneous'),
 ]
-
-# At top on conf.py (with other import statements)
-
-from recommonmark.transform import AutoStructify
-
-# At the bottom of conf.py
-def setup(app):
-    app.add_config_value('recommonmark_config', {
-            'url_resolver': lambda url: github_doc_root + url,
-            'auto_toc_tree_section': 'Contents',
-            }, True)
-    app.add_transform(AutoStructify)
-from recommonmark.parser import CommonMarkParser
-source_parsers = {
-    '.md': CommonMarkParser,
-}
-source_suffix = ['.rst', '.md']
 
 # -- Extension configuration -------------------------------------------------

@@ -9,27 +9,30 @@ Welcome to power's documentation!
 .. toctree::
 
    :maxdepth: 2
-   :caption: Contents:
+   :glod:
 
-Contents:
+   其他
 
-.. toctree::
-   :maxdepth: 2
-
-   helloworld
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-Contents:
+一、试试
+==============
 
 .. toctree::
    :maxdepth: 2
+   :glod:
 
-   helloworld
+   python.md
+
+1. a
+-----
+
+1.1 nihao
+~~~~~~~~~~~~~~~~
+
+1.2 hao
+~~~~~~~~~~~~~~~~
+
+1.3 haha
+~~~~~~~~~~~~~~~~
+
+$ make html
+

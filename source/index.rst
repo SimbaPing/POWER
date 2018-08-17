@@ -7,31 +7,15 @@ Welcome to power's documentation!
 =================================
 
 .. toctree::
+   :maxdepth: 1
 
+   helloworld
+   
    :maxdepth: 2
-
-   其他
-
-一、试试
-==============
-
-.. toctree::
-
-   :maxdepth: 2
-
-   python.md
-
-1. a
------
-
-1.1 nihao
-~~~~~~~~~~~~~~~~
-
-1.2 hao
-~~~~~~~~~~~~~~~~
-
-1.3 haha
-~~~~~~~~~~~~~~~~
+   :caption: Contents:
 
 
+
+Indices and tables
+==================
 

@@ -8,7 +8,9 @@ Welcome to power's documentation!
 
 .. toctree::
    :maxdepth: 1
+
    helloworld
+   
    :maxdepth: 2
    :caption: Contents:
 
@@ -17,6 +19,3 @@ Welcome to power's documentation!
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

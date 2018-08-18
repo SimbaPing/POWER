@@ -1,1 +1,0 @@
-Search.setIndex({docnames:["helloworld","index"],envversion:53,filenames:["helloworld.rst","index.rst"],objects:{},objnames:{},objtypes:{},terms:{hello:1,index:[],modul:[],page:[],search:[],worldni:1},titles:["hello,worldni","Welcome to power\u2019s documentation!"],titleterms:{document:1,hello:0,indic:1,power:1,tabl:1,welcom:1,worldni:0}})

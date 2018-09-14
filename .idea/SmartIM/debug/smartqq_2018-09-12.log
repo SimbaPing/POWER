@@ -1,0 +1,536 @@
+2018-09-12 20:49:08.025 [Thread-7] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取二维码
+2018-09-12 20:49:08.568 [Thread-7] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				二维码已保存在 C:\Users\uppjs\Desktop\John\GitHub\POWER\.idea\SmartIM\smartqq.jpg 文件中，请打开手机QQ并扫描二维码
+2018-09-12 20:49:08.570 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				等待扫描二维码
+2018-09-12 20:50:09.138 [Thread-7] ERROR com.scienjus.smartqq.client.SmartQQClient -
+				登录失败
+java.lang.RuntimeException: 验证二维码超时
+	at com.scienjus.smartqq.client.SmartQQApi.verifyQRCode(SmartQQApi.java:188)
+	at com.scienjus.smartqq.client.SmartQQApi.login(SmartQQApi.java:109)
+	at com.scienjus.smartqq.client.SmartQQClient.login(SmartQQClient.java:191)
+	at cn.ieclipse.smartim.actions.LoginAction$1.run(LoginAction.java:31)
+2018-09-12 21:45:47.378 [Thread-27] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取二维码
+2018-09-12 21:45:47.647 [Thread-27] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				二维码已保存在 C:\Users\uppjs\Desktop\John\GitHub\POWER\.idea\SmartIM\smartqq.jpg 文件中，请打开手机QQ并扫描二维码
+2018-09-12 21:45:47.648 [Thread-27] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				等待扫描二维码
+2018-09-12 21:45:48.717 [Thread-27] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				二维码已失效，尝试重新获取二维码
+2018-09-12 21:45:48.717 [Thread-27] ERROR com.scienjus.smartqq.client.SmartQQClient -
+				登录失败
+java.lang.RuntimeException: 二维码已失效
+	at com.scienjus.smartqq.client.SmartQQApi.verifyQRCode(SmartQQApi.java:184)
+	at com.scienjus.smartqq.client.SmartQQApi.login(SmartQQApi.java:109)
+	at com.scienjus.smartqq.client.SmartQQClient.login(SmartQQClient.java:191)
+	at cn.ieclipse.smartim.actions.LoginAction$1.run(LoginAction.java:31)
+2018-09-12 21:45:58.633 [Thread-29] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取二维码
+2018-09-12 21:45:58.662 [Thread-29] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				二维码已保存在 C:\Users\uppjs\Desktop\John\GitHub\POWER\.idea\SmartIM\smartqq.jpg 文件中，请打开手机QQ并扫描二维码
+2018-09-12 21:45:58.662 [Thread-29] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				等待扫描二维码
+2018-09-12 21:45:59.738 [Thread-29] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				二维码已失效，尝试重新获取二维码
+2018-09-12 21:45:59.739 [Thread-29] ERROR com.scienjus.smartqq.client.SmartQQClient -
+				登录失败
+java.lang.RuntimeException: 二维码已失效
+	at com.scienjus.smartqq.client.SmartQQApi.verifyQRCode(SmartQQApi.java:184)
+	at com.scienjus.smartqq.client.SmartQQApi.login(SmartQQApi.java:109)
+	at com.scienjus.smartqq.client.SmartQQClient.login(SmartQQClient.java:191)
+	at cn.ieclipse.smartim.actions.LoginAction$1.run(LoginAction.java:31)
+2018-09-12 21:46:09.753 [Thread-31] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取二维码
+2018-09-12 21:46:09.784 [Thread-31] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				二维码已保存在 C:\Users\uppjs\Desktop\John\GitHub\POWER\.idea\SmartIM\smartqq.jpg 文件中，请打开手机QQ并扫描二维码
+2018-09-12 21:46:09.784 [Thread-31] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				等待扫描二维码
+2018-09-12 21:46:10.866 [Thread-31] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				二维码已失效，尝试重新获取二维码
+2018-09-12 21:46:10.867 [Thread-31] ERROR com.scienjus.smartqq.client.SmartQQClient -
+				登录失败
+java.lang.RuntimeException: 二维码已失效
+	at com.scienjus.smartqq.client.SmartQQApi.verifyQRCode(SmartQQApi.java:184)
+	at com.scienjus.smartqq.client.SmartQQApi.login(SmartQQApi.java:109)
+	at com.scienjus.smartqq.client.SmartQQClient.login(SmartQQClient.java:191)
+	at cn.ieclipse.smartim.actions.LoginAction$1.run(LoginAction.java:31)
+2018-09-12 21:46:17.857 [Thread-33] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取二维码
+2018-09-12 21:46:17.927 [Thread-33] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				二维码已保存在 C:\Users\uppjs\Desktop\John\GitHub\POWER\.idea\SmartIM\smartqq.jpg 文件中，请打开手机QQ并扫描二维码
+2018-09-12 21:46:17.927 [Thread-33] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				等待扫描二维码
+2018-09-12 21:46:18.996 [Thread-33] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				二维码已失效，尝试重新获取二维码
+2018-09-12 21:46:18.996 [Thread-33] ERROR com.scienjus.smartqq.client.SmartQQClient -
+				登录失败
+java.lang.RuntimeException: 二维码已失效
+	at com.scienjus.smartqq.client.SmartQQApi.verifyQRCode(SmartQQApi.java:184)
+	at com.scienjus.smartqq.client.SmartQQApi.login(SmartQQApi.java:109)
+	at com.scienjus.smartqq.client.SmartQQClient.login(SmartQQClient.java:191)
+	at cn.ieclipse.smartim.actions.LoginAction$1.run(LoginAction.java:31)
+2018-09-12 21:46:49.929 [Thread-37] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取二维码
+2018-09-12 21:46:49.998 [Thread-37] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				二维码已保存在 C:\Users\uppjs\Desktop\John\GitHub\POWER\.idea\SmartIM\smartqq.jpg 文件中，请打开手机QQ并扫描二维码
+2018-09-12 21:46:49.998 [Thread-37] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				等待扫描二维码
+2018-09-12 21:46:51.068 [Thread-37] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				二维码已失效，尝试重新获取二维码
+2018-09-12 21:46:51.068 [Thread-37] ERROR com.scienjus.smartqq.client.SmartQQClient -
+				登录失败
+java.lang.RuntimeException: 二维码已失效
+	at com.scienjus.smartqq.client.SmartQQApi.verifyQRCode(SmartQQApi.java:184)
+	at com.scienjus.smartqq.client.SmartQQApi.login(SmartQQApi.java:109)
+	at com.scienjus.smartqq.client.SmartQQClient.login(SmartQQClient.java:191)
+	at cn.ieclipse.smartim.actions.LoginAction$1.run(LoginAction.java:31)
+2018-09-12 21:47:53.333 [Thread-5] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取二维码
+2018-09-12 21:47:53.743 [Thread-5] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				二维码已保存在 C:\Users\uppjs\Desktop\John\GitHub\POWER\.idea\SmartIM\smartqq.jpg 文件中，请打开手机QQ并扫描二维码
+2018-09-12 21:47:53.744 [Thread-5] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				等待扫描二维码
+2018-09-12 21:48:02.484 [Thread-5] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				正在登录，请稍后
+2018-09-12 21:48:02.485 [Thread-5] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取ptwebqq
+2018-09-12 21:48:02.802 [Thread-5] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取vfwebqq
+2018-09-12 21:48:03.162 [Thread-5] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取uin和psessionid
+2018-09-12 21:48:03.336 [Thread-5] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始获取好友状态
+2018-09-12 21:48:03.492 [Thread-6] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取登录用户信息
+2018-09-12 21:48:03.672 [Thread-6] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取好友列表
+2018-09-12 21:48:03.843 [Thread-6] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取群列表
+2018-09-12 21:48:07.004 [Thread-6] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取讨论组列表
+2018-09-12 21:48:07.144 [Thread-6] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取最近会话列表
+2018-09-12 21:48:27.340 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:48:37.377 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:48:58.814 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:49:24.517 [Thread-11] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:49:24.714 [Thread-11] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:49:28.926 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:49:37.090 [Thread-12] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:49:37.293 [Thread-12] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:49:38.929 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:50:16.478 [Thread-13] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:50:16.670 [Thread-13] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:50:41.541 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:50:59.539 [Thread-14] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:50:59.681 [Thread-14] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:51:09.730 [Thread-15] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:51:09.867 [Thread-15] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:51:41.411 [Thread-16] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:51:41.566 [Thread-16] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:51:51.417 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:51:56.996 [Thread-17] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:51:57.183 [Thread-17] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:52:04.148 [Thread-18] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:52:04.307 [Thread-18] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:52:31.453 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:52:41.515 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:53:01.472 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:53:28.131 [Thread-19] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:53:28.335 [Thread-19] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:53:30.180 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:53:40.182 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:54:00.273 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:54:00.626 [Thread-20] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:54:00.768 [Thread-20] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:55:05.587 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:55:15.615 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:55:17.060 [Thread-21] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:55:17.206 [Thread-21] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:55:59.777 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:56:09.808 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:56:13.491 [Thread-22] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:56:13.647 [Thread-22] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:56:32.115 [Thread-23] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:56:32.311 [Thread-23] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:56:44.324 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:57:02.162 [Thread-24] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:57:02.301 [Thread-24] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:57:05.602 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:57:25.168 [Thread-25] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:57:25.340 [Thread-25] ERROR com.scienjus.smartqq.client.SmartQQApi -
+				发送失败，Api返回码[1202]
+2018-09-12 21:57:48.091 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:57:53.971 [Thread-26] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:57:54.111 [Thread-26] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:58:31.266 [Thread-27] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:58:31.410 [Thread-27] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:58:36.097 [Thread-28] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:58:36.226 [Thread-28] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:58:45.297 [Thread-29] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:58:45.474 [Thread-29] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:59:06.605 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:59:16.609 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:59:26.661 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:59:29.987 [Thread-30] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:59:30.144 [Thread-30] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:59:36.688 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 21:59:38.706 [Thread-31] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:59:38.846 [Thread-31] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 21:59:51.585 [Thread-32] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 21:59:51.724 [Thread-32] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:00:13.857 [Thread-33] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:00:14.046 [Thread-33] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:00:50.818 [Thread-34] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:00:51.015 [Thread-34] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:00:53.059 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:01:02.686 [Thread-35] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:01:02.830 [Thread-35] ERROR com.scienjus.smartqq.client.SmartQQApi -
+				发送失败，Api返回码[1202]
+2018-09-12 22:01:42.264 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:02:03.345 [Thread-36] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:02:03.510 [Thread-36] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:02:06.443 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:02:46.926 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:03:06.988 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:03:11.824 [Thread-37] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:03:12.020 [Thread-37] ERROR com.scienjus.smartqq.client.SmartQQApi -
+				发送失败，Api返回码[1202]
+2018-09-12 22:03:17.039 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:03:42.929 [Thread-38] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:03:43.086 [Thread-38] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:04:07.841 [Thread-39] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:04:08.063 [Thread-39] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:04:12.640 [Thread-40] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:04:12.789 [Thread-40] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:04:18.416 [Thread-41] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:04:18.537 [Thread-41] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:04:34.866 [Thread-42] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:04:35.031 [Thread-42] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:04:36.522 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:05:06.129 [Thread-43] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:05:06.324 [Thread-43] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:05:21.986 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:05:24.448 [Thread-44] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:05:24.627 [Thread-44] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:05:37.712 [Thread-45] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:05:37.898 [Thread-45] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:05:44.902 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:06:01.492 [Thread-46] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:06:01.701 [Thread-46] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:06:19.199 [Thread-47] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:06:19.350 [Thread-47] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:06:25.616 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				timeout
+2018-09-12 22:06:51.505 [Thread-48] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:06:51.691 [Thread-48] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:06:58.589 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:07:30.422 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:07:35.778 [Thread-49] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:07:35.935 [Thread-49] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:07:41.631 [Thread-50] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:07:41.774 [Thread-50] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:08:16.892 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:08:35.183 [Thread-51] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:08:35.401 [Thread-51] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:08:37.026 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:08:57.007 [Thread-52] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:08:57.153 [Thread-52] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:09:06.719 [Thread-53] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:09:06.858 [Thread-53] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:09:37.471 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:09:49.684 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:10:09.745 [Thread-54] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:10:09.958 [Thread-54] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:10:15.700 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:10:21.919 [Thread-55] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:10:22.104 [Thread-55] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:10:40.896 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:10:51.054 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:11:01.091 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:11:05.887 [Thread-56] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:11:06.052 [Thread-56] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:11:11.143 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:11:26.881 [Thread-57] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:11:27.032 [Thread-57] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:11:36.272 [Thread-58] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:11:36.437 [Thread-58] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:12:08.227 [Thread-59] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:12:08.362 [Thread-59] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:12:36.671 [Thread-60] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:12:36.793 [Thread-60] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:12:55.839 [Thread-61] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:12:55.980 [Thread-61] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:13:16.534 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:13:23.344 [Thread-62] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:13:23.513 [Thread-62] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:13:26.565 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:13:32.480 [Thread-63] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:13:32.618 [Thread-63] ERROR com.scienjus.smartqq.client.SmartQQApi -
+				发送失败，Api返回码[1202]
+2018-09-12 22:13:45.918 [Thread-64] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:13:46.055 [Thread-64] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:13:46.571 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				timeout
+2018-09-12 22:14:04.649 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:14:41.104 [Thread-65] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:14:41.362 [Thread-65] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:14:52.014 [Thread-66] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:14:52.190 [Thread-66] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:15:11.748 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:15:37.555 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:15:57.612 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:15:58.479 [Thread-67] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				开始发送消息
+2018-09-12 22:15:58.610 [Thread-67] DEBUG com.scienjus.smartqq.client.SmartQQApi -
+				发送成功
+2018-09-12 22:16:47.191 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:18:16.091 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:19:46.115 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:21:25.741 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:21:59.976 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:22:23.123 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:23:15.387 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:24:44.357 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:24:54.391 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:25:04.421 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:25:24.802 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:25:43.244 [Thread-7] INFO  com.scienjus.smartqq.client.SmartQQClient -
+				获取群(code=3026117033)信息
+2018-09-12 22:25:43.244 [Thread-7] INFO  com.scienjus.smartqq.client.SmartQQApi -
+				开始获取群资料
+2018-09-12 22:26:15.911 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:26:39.511 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:26:49.896 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:27:44.291 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:29:39.470 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:29:51.796 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:30:04.584 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:30:24.620 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:30:57.845 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:31:42.594 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:32:07.872 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:32:27.303 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:32:37.357 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:32:52.289 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:34:17.774 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:35:16.918 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:35:36.974 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:35:47.020 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:37:52.989 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:38:52.409 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:39:02.789 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:39:32.908 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:40:13.428 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:41:01.066 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:42:17.392 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:42:37.453 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:42:47.527 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:43:09.047 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:44:17.799 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:45:48.175 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:46:42.997 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Read timed out
+2018-09-12 22:47:01.990 [Thread-7] DEBUG com.scienjus.smartqq.client.SmartQQClient -
+				Canceled

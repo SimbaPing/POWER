@@ -4,11 +4,12 @@
 
 1. 网址：<http://www.android-studio.org/>
 2. 安装 AS 时，将 SDK 和 AVD 直接安装好（SDK 要选择好安装目录）。
-3. 无线连接插件：ADB idea、ADB WiFi 和 Android WiFi ADB。
+3. 安装 Dart，然后 flutter。
+4. 无线连接插件：WIFI ADB ULTIMATE。
 
 ## AS 设置
 
-1. setting -> Android SDK -> SDK Platforms 选择相应的 SDK 安装，SDK Tools 中 Android SDK Platform-Tools 安装。
+1. setting -> Android SDK -> SDK Platforms 选择相应的 SDK 安装，SDK Tools 中 Android SDK Platform-Tools 以及 Android SDK Build-Tools 安装及更新。
 2. File -> Project Structure：将各种 SDK 都设置成想要的。
 3. 内存配置：
 
@@ -27,11 +28,20 @@
 
 添加环境变量：
 
-- ANDROID_HOME：Android\platform-tools 和 Android\sdk\tools
+```txt
+- ANDROID_HOME：Android\sdk\platform-tools 和 Android\sdk\tools
 - Path：上面的也加入一遍 和 Android 文件夹
+- PUB_HOSTED_URL: https://pub.flutter-io.cn
+- FLUTTER_STORAGE_BASE_URL: https://storage.flutter-io.cn
+```
 
-命令行：
+在 flutter 目录下找到 flutter_console.bat 进行操作：
 
 - adb：是否安装成功。
 - flutter doctor --android-licenses： 注册，可以解决一些问题。
 - flutter doctor：发现若干问题，搜索解决就好了。
+
+AS→setting：
+
+- flutter 添加位置 `C:\Users\uppjs\Flutter\flutter`
+- Dart 添加位置 `C:\Users\uppjs\Flutter\flutter\bin\cache\dart-sdk`

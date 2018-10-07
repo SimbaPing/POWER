@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c350d01-950c-4acd-b757-50f10105f9ed" name="Default" comment="FileHeader">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5c350d01-950c-4acd-b757-50f10105f9ed" name="Default" comment="FileHeader" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,9 +54,18 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="2024831581">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -91,7 +98,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,6 +114,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -237,6 +244,7 @@
       <workItem from="1536760072039" duration="3349000" />
       <workItem from="1537115345216" duration="628000" />
       <workItem from="1537347223384" duration="587000" />
+      <workItem from="1538893940964" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="other">
       <created>1529249064223</created>
@@ -263,12 +271,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8552000" />
+    <option name="totallyTimeSpent" value="8579000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18319455" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18622255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -365,14 +373,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding>
-            <element signature="method#CollapseDemo#0;class#CollapseDemo#0" />
-            <element signature="method#startEngine#0;class#CollapseDemo#0" />
-            <element signature="method#rotateWheel#0;class#CollapseDemo#0" />
-            <element signature="class#Engine#0;class#CollapseDemo#0" />
-            <element signature="class#Wheel#0;class#CollapseDemo#0" />
-            <element signature="class#CheckEngineException#0;class#CollapseDemo#0" />
-          </folding>
         </state>
       </provider>
     </entry>

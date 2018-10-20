@@ -29,3 +29,6 @@
     android:allowBackup="true"
     android:fullBackupContent="true"
     ```
+
+- Type parameter T has incompatible upper bounds: View and TextView.
+  - File -> Invalidate Caches / Restart，这是清理缓存并重启吧

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c350d01-950c-4acd-b757-50f10105f9ed" name="Default" comment="FileHeader" />
+    <list default="true" id="5c350d01-950c-4acd-b757-50f10105f9ed" name="Default" comment="FileHeader">
+      <change beforePath="$PROJECT_DIR$/android/Android-新建.md" beforeDir="false" afterPath="$PROJECT_DIR$/android/Android-新建.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +70,8 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -106,26 +109,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="POWER" type="b2602c69:ProjectViewProjectNode" />
-              <item name="POWER" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="POWER" type="b2602c69:ProjectViewProjectNode" />
-              <item name="POWER" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -136,7 +120,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -255,6 +239,7 @@
       <workItem from="1537347223384" duration="587000" />
       <workItem from="1538893940964" duration="27000" />
       <workItem from="1539343212032" duration="12000" />
+      <workItem from="1540035926328" duration="264000" />
     </task>
     <task id="LOCAL-00001" summary="other">
       <created>1529249064223</created>
@@ -281,7 +266,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8591000" />
+    <option name="totallyTimeSpent" value="8855000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />

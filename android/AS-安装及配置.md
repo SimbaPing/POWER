@@ -9,9 +9,10 @@
 
 ## AS 设置
 
-1. setting -> Android SDK -> SDK Platforms 选择相应的 SDK 安装，SDK Tools 中 Android SDK Platform-Tools 以及 Android SDK Build-Tools 安装及更新。
-2. File -> Project Structure：将各种 SDK 都设置成想要的。
-3. 内存配置：
+- setting -> Android SDK -> SDK Platforms 选择相应的 SDK 安装，SDK Tools 中 Android SDK Platform-Tools 以及 Android SDK Build-Tools 安装及更新。
+
+- File -> Project Structure：将各种 SDK 都设置成想要的。
+- 内存配置：
 
 ```txt
 -Xms1024m  // JVM启动的起始堆内存
@@ -21,6 +22,10 @@
 -XX:+UseConcMarkSweepGC
 -XX:SoftRefLRUPolicyMSPerMB=300
 ```
+
+- 更改 APK 支持的最低安卓版本：文件 `build.gradle(app)` 中 minSdkVersion-最低支持版本，targetSdkVersion-理想支持版本，compileSdkVersion-编译版本，所以修改 minSdkVersion 就行，minSdkVersion 与 targetSdkVersion 可以理解为一个区间。
+
+- AVD 无法正常打开时，在 settings 里 SDK Tools 安装 Android Emulator，当然相应的 SDK Platform 也要下载。
 
 ## Flutter
 

@@ -16,14 +16,3 @@
 
 ## Test
 
-Column A | Column B | Column C
----------|----------|---------
- ^ | B1 | C1
- > | B2 | C2
- A3 | B3 | C3
-
- ```javascript {.line-numbers}
-function add(x, y) {
-  return x + y
-}
-```

@@ -29,8 +29,6 @@
 
 ## GitHub Stars
 
-:blue_book:
-
 ## About
 
 ## TODO

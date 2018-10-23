@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c350d01-950c-4acd-b757-50f10105f9ed" name="Default" comment="Soft">
-      <change afterPath="$PROJECT_DIR$/python/test.md" afterDir="false" />
+    <list default="true" id="5c350d01-950c-4acd-b757-50f10105f9ed" name="Default" comment=":poop:1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/LearnPython.md" beforeDir="false" afterPath="$PROJECT_DIR$/python/LearnPython.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,13 +80,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="425" />
-          <entry key="txt" value="19" />
+          <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="425" />
-          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="PLAIN_TEXT" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -180,7 +178,7 @@
             <path>
               <item name="POWER" type="b2602c69:ProjectViewProjectNode" />
               <item name="POWER" type="462c0819:PsiDirectoryNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -328,7 +326,7 @@
       <workItem from="1540035926328" duration="367000" />
       <workItem from="1540060881653" duration="2515000" />
       <workItem from="1540187283512" duration="7000" />
-      <workItem from="1540289616075" duration="626000" />
+      <workItem from="1540289616075" duration="913000" />
     </task>
     <task id="LOCAL-00001" summary="other">
       <created>1529249064223</created>
@@ -379,16 +377,23 @@
       <option name="project" value="LOCAL" />
       <updated>1540063391987</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=":poop:1">
+      <created>1540290441598</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1540290441599</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12106000" />
+    <option name="totallyTimeSpent" value="12393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1904" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1904" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -403,7 +408,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32901832" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32832617" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Statistic" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32899022" />
@@ -428,6 +433,32 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -435,7 +466,8 @@
     <MESSAGE value="FileHeader" />
     <MESSAGE value="other" />
     <MESSAGE value="Soft" />
-    <option name="LAST_COMMIT_MESSAGE" value="Soft" />
+    <MESSAGE value=":poop:1" />
+    <option name="LAST_COMMIT_MESSAGE" value=":poop:1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/其他/中英文语法.md">
@@ -510,7 +542,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/test.md">
+    <entry file="file://$PROJECT_DIR$/python/test.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
@@ -520,7 +552,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/spider.md">
+    <entry file="file://$PROJECT_DIR$/python/spider.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-1140" />
@@ -528,7 +560,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/LearnPython.md">
+    <entry file="file://$PROJECT_DIR$/python/LearnPython.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="275">
@@ -596,7 +628,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

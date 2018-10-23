@@ -12,7 +12,8 @@
 * data 里面用 encode(encoding='utf-8')，read() 用 .decode('utf-8')。
 
 4. 将图片下载到本地文件夹，并且按照顺序编号。
-```python
+
+```txt
 import urllib.request
 
 imgList = []  # 这是一个列表

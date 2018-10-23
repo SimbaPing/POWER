@@ -2,9 +2,15 @@
 
 ## 下载与安装
 
+下载：[VS Code](https://code.visualstudio.com/)。一路高歌猛进。
+
 ## 配置
 
 直接将 gists 上的同步到本地就可以。
+
+## 快捷键
+
+> 想要跟 IDEA 的快捷键保持一致，但是还有一些需要改进。
 
 ## plug-in
 

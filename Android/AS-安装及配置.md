@@ -27,6 +27,11 @@
 
 - AVD 无法正常打开时，在 settings 里 SDK Tools 安装 Android Emulator，当然相应的 SDK Platform 也要下载。
 
+## Gradle
+
+- 查看版本：Project Structure 中的 project。
+- 更新：将 AS 中 gradle-wrapper.properties 里的版本号改为 [Gradle 版本](http://services.gradle.org/distributions/) 的结尾为 all 就可以了。
+
 ## Flutter
 
 安装，在 cmd 中选个文件夹执行命令：`git clone -b beta https://github.com/flutter/flutter.git`。

@@ -30,7 +30,16 @@
 ## Gradle
 
 - 查看版本：Project Structure 中的 project。
-- 更新：将 AS 中 gradle-wrapper.properties 里的版本号改为 [Gradle 版本](http://services.gradle.org/distributions/) 的结尾为 all 就可以了。
+- 更新：将 AS 中 gradle-wrapper.properties 里的版本号改为 [Gradle 版本](http://services.gradle.org/distributions/) 的结尾为 all 就可以了。然后在 AS 的终端输入 gradlew build。
+- 优化：
+
+```xml
+# 在 gradle.proerties 文件中加入这个，不是很懂
+org.gradle.daemon=true  
+org.gradle.jvmargs=-Xmx2048m -XX:MaxPermSize=512m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
+org.gradle.parallel=true
+org.gradle.configureondemand=true
+```
 
 ## Flutter
 

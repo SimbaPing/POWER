@@ -22,11 +22,14 @@
 
 ### 相关语言：
 
-------- | ------- | ------- | -------
+
+|  |  |  |  |
+--------|---------|---------|--------
 [Python](https://github.com/SimbaPing/POWER/tree/master/Python/) | [Java](https://github.com/SimbaPing/POWER/tree/master/Java/) | [Web](https://github.com/SimbaPing/POWER/tree/master/Web/) | [Android](https://github.com/SimbaPing/POWER/tree/master/Android/)
 
 ### 相关 IDE：
 
+|  |  |  |  |
 ------- | ------- | ------- | -------
 [IDEA](https://github.com/SimbaPing/POWER/tree/master/IDE/IDEA.md/) | [VSCode](https://github.com/SimbaPing/POWER/tree/master/IDE/VSCode.md/) | Eclipse | Sublime
 

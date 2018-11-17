@@ -27,6 +27,12 @@
 
 - AVD 无法正常打开时，在 settings 里 SDK Tools 安装 Android Emulator，当然相应的 SDK Platform 也要下载。
 
+- setting：
+  - 自动导入类。auto import 中勾选 Add unambiguous imports on the fly。
+  - 鼠标悬停显示方法说明。Editor --> General --> other 中 show quick...
+
+- 删除无用资源文件。Refactor --> Remove Unused Resources，不要勾选。
+
 ## Gradle
 
 - 查看版本：Project Structure 中的 project。

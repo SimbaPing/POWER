@@ -36,12 +36,21 @@
 ## Gradle
 
 - 查看版本：Project Structure 中的 project。
-- 更新：将 AS 中 gradle-wrapper.properties 里的版本号改为 [Gradle 版本](http://services.gradle.org/distributions/) 的结尾为 all 就可以了。然后在 AS 的终端输入 gradlew build。
+- 更新：将 AS 中 gradle-wrapper.properties 里的版本号改为 [Gradle 版本](http://services.gradle.org/distributions/) 的结尾为 all 就可以了。然后在 AS 的终端输入 gradlew build。在 build.gradle classpath 里修改一下 gradle 的插件号。
 - 优化：
+  - settings-gradle 中 JVM 改为 java 版本。
+
+## 问题
+
+-  `Cannot resolve symbol 'Theme'`，能用但是红色，在 build.gradle 中注释掉 v7，sync 之后再 添加上就好了，也可以清理一下缓存试试。
+
+- coordinatorLayoutStyle 问题，在 style 中添加 `Base.Theme` 和`<item name="coordinatorLayoutStyle">@style/Widget.Support.CoordinatorLayout</item>`
+
+- 解决 Unknown host 'd29vzk4ow07wi7.cloudfront.net'. You may need to adjust the proxy settings in Gradle. 把 build.gradle(app) 中的两个 jcenter() 用 maven{ url ‘http://maven.aliyun.com/nexus/content/groups/public/’}代替。
 
 ```xml
 # 在 gradle.proerties 文件中加入这个，不是很懂
-org.gradle.daemon=true  
+org.gradle.daemon=true
 org.gradle.jvmargs=-Xmx2048m -XX:MaxPermSize=512m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
 org.gradle.parallel=true
 org.gradle.configureondemand=true

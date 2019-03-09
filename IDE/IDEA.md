@@ -4,14 +4,35 @@
 
 1. 网址：<https://www.jetbrains.com/idea/download/#section=windows/>
 2. 下载后选择安装目录进行安装。
-3. 选择是否导入之前配置。
+3. 登录账号同步设置。
 4. 通过安装插件可以代替（非绝对）PhpStorm、PyCharm、WebStorm。IDEA 主要还是用来写 Java 的。
 
-## 使用
+## settings
 
-主题：Atom One Dark
+1. Appearance - show memory indicator = 右下角显示内存大小
+2. Font - Consolas 12 1.1 microsoft YaHei UI
+3. code completion - 去掉 ✔ Match case all letter = 提示不分大小写
+4. File Encodings - 都改为 UTF-8 ✔ Transparent native-to-ascii conversion
+5. Editor Tabs - ✔ Mark modified = 用 * 标识编辑过的文件
+6. System Settings - 去掉 reopen ✔ open project in the same window
+7. Color Scheme - Atom One Dark
+8. GitHub - Token
 
-文字字体、大小，行高：Consolas，Microsoft Yahei UI，14，1.1
+## plugs
+
+1. Atom File icons IDEA = 图标样式
+2. Rainbow Bracket = 彩虹括号
+3. codeGlace = 右侧小地图
+4. Statistic = 代码统计
+5. .ignore = 忽略杂文件
+6. liveEdit = 在 Chrome 实时调试
+7. ESLint = 代码检查工具
+8. NodeJS
+
+## 快捷键
+
+1. Ctrl + W = 扩选
+2. 
 
 ## 修改内存
 

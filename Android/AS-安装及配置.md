@@ -46,7 +46,7 @@
 
 - coordinatorLayoutStyle 问题，在 style 中添加 `Base.Theme` 和`<item name="coordinatorLayoutStyle">@style/Widget.Support.CoordinatorLayout</item>`
 
-- 解决 Unknown host 'd29vzk4ow07wi7.cloudfront.net'. You may need to adjust the proxy settings in Gradle. 把 build.gradle(app) 中的两个 jcenter() 用 maven{ url ‘http://maven.aliyun.com/nexus/content/groups/public/’}代替。
+- 解决 Unknown host 'd29vzk4ow07wi7.cloudfront.net'. You may need to adjust the proxy settings in Gradle. 把 build.gradle(app) 中的两个 jcenter() 用 maven{ url ‘http://maven.aliyun.com/nexus/content/groups/public/’} 代替。
 
 ```xml
 # 在 gradle.proerties 文件中加入这个，不是很懂

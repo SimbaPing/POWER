@@ -1,4 +1,5 @@
 {
     "cSpell.language": "en",
-    "rest-client.previewResponseInUntitledDocument": true
+    "rest-client.previewResponseInUntitledDocument": true,
+    "python.linting.pylintEnabled": true
 }

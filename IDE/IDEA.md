@@ -29,10 +29,19 @@
 7. ESLint = 代码检查工具
 8. NodeJS
 
+## 头文件
+
+` Created with IntelliJ IDEA by Django on ${DATE} ${TIME} `
+
 ## 快捷键
 
 1. Ctrl + W = 扩选
-2. 
+2. 新建
+  - java: alt + 引号
+  - python: alt + 冒号
+  - html: atl + H
+  - css: alt + <
+  - javascript: alt + >
 
 ## 修改内存
 

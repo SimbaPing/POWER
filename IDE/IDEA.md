@@ -15,7 +15,7 @@
 4. File Encodings - 都改为 UTF-8 ✔ Transparent native-to-ascii conversion
 5. Editor Tabs - ✔ Mark modified = 用 * 标识编辑过的文件
 6. System Settings - 去掉 reopen ✔ open project in the same window
-7. Color Scheme - Atom One Dark
+7. Color Scheme - Atom OneDark Theme
 8. GitHub - Token
 
 ## plugs

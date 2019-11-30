@@ -15,6 +15,8 @@
 
 ## plug-in
 
+- Python Preview = Python 预览
+
 ### Markdown
 
 - Markdown All in one：主要用格式化。

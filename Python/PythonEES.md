@@ -1,3 +1,8 @@
+<!--
+ * @Date: 2018-10-23 09:35:26
+ * @LastEditors: uppjs@qq.com
+ * @LastEditTime: 2020-08-12 10:05:29
+-->
 # 强行头部
 
 1. 问：TypeError: POST data should be bytes, an iterable of bytes, or a file object. It cannot be of type s。
@@ -35,4 +40,6 @@ for imgPath in imgList:  # 将列表逐行打印变成 imgPath
 r = requests.get(url)
 **r.ending = 'gbk'**，中文编码 gbk
 
-7.
+7. pip 安装错误，可能是国内无法访问。
+
+'pip install 包名 -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com'

@@ -1,3 +1,8 @@
+<!--
+ * @Date: 2020-11-14 20:12:16
+ * @LastEditors: uppjs@qq.com
+ * @LastEditTime: 2020-11-14 22:28:48
+-->
 # VSCode
 
 ## 下载与安装
@@ -6,8 +11,10 @@
 
 ## 配置
 
-- 直接将 gists 上的同步到本地就可以。
-- 克隆到本地：`git clone xxx.git`。
+- 登录 GitHub。
+- 安装 Git。
+- 克隆仓库，Ctrl+shift+p，git clone，填入链接即可。
+- 同步有点困难，在配置文件setting.json，git path中填入git地址，具体到cmd即可，然后在git命令cmd中git config --global user.email "username" git config --global user.email "youeamil@email"，随意填就行，不知道为什么
 
 ## 快捷键
 

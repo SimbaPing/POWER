@@ -1,3 +1,8 @@
+<!--
+ * @Date: 2020-11-14 20:12:16
+ * @LastEditors: uppjs@qq.com
+ * @LastEditTime: 2020-11-22 01:44:06
+-->
 # IDEA 安装与调试
 
 ## IDEA 安装
@@ -32,6 +37,20 @@
 ## 头文件
 
 ` Created with IntelliJ IDEA by Django on ${DATE} ${TIME} `
+
+- {MONTH} - 当月；
+- {YEAR} - 当年；
+- {DAY} - 当天；
+- {HOUR} - 当前的小时；
+- {MINUTE} - 当前分钟；
+- {TIME} - 当前系统时间；
+- {DATE} - 当前的系统日期；
+- {USER} - 当前用户的登录名；
+- {PROJECT_NAME} - 当前项目的名称；
+- {MONTH_NAME_FULL} - 一个月的全名；
+- {MONTH_NAME_SHORT} - 月份名称的前3个字母；
+- {PRODUCT_NAME} - 当前集成开发环境；
+- {NAME} - 在文件创建过程中在“新建文件”对话框中指定的新文件的名称；
 
 ## 快捷键
 

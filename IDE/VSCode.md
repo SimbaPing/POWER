@@ -1,7 +1,7 @@
 <!--
  * @Date: 2020-11-14 20:12:16
  * @LastEditors: uppjs@qq.com
- * @LastEditTime: 2020-11-14 22:28:48
+ * @LastEditTime: 2021-01-07 10:45:53
 -->
 # VSCode
 
@@ -15,6 +15,11 @@
 - 安装 Git。
 - 克隆仓库，Ctrl+shift+p，git clone，填入链接即可。
 - 同步有点困难，在配置文件setting.json，git path中填入git地址，具体到cmd即可，然后在git命令cmd中git config --global user.email "username" git config --global user.email "youeamil@email"，随意填就行，不知道为什么
+
+### 主题优化
+
+- 图标插件 ayu
+- 主题插件 one dark pro
 
 ## 快捷键
 
@@ -36,8 +41,6 @@
 
 ### Other
 
-- One Dark Pro：文字主题。
 - IntelliJ IDEA Keybindings：用 IDEA 的快捷键。
-- Material Theme：主题方案。
 - Settings Sync：利用 gist 同步配置。
 - Word Count：计数君。

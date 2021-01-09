@@ -1,7 +1,7 @@
 <!--
  * @Date: 2020-11-14 20:12:16
  * @LastEditors: uppjs@qq.com
- * @LastEditTime: 2021-01-07 10:32:34
+ * @LastEditTime: 2021-01-09 20:17:18
 -->
 # IDEA 安装与调试
 
@@ -13,6 +13,13 @@
 - 通过安装插件可以代替（非绝对）PhpStorm、PyCharm、WebStorm。IDEA 主要还是用来写 Java 的。
 
 ## 编辑器优化
+
+### Android 设置
+
+- 插件里找到 android 安装打勾
+- 安装 [SDK](https://developer.android.google.cn/studio/releases/platform-tools)，文件很大，找到合适的位置放
+- 在已经打开的 IDEA 里 file→new project settings→structure for new project，在里面 sdk 里加入刚才下载的就可以了
+- 插件：ADBwifi用来无线连接手机，手机端要在开发者选项里打开USB调试和安装
 
 ### 设置
 
@@ -29,6 +36,7 @@
 
 - Material Theme UI
   - Atom One Dark
+  - Tabs→Tab Height 14
   - √ Contrast Mode
   - 全√ Compact
   - √ Custom Sidebar Height 18
